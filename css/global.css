@@ -1,0 +1,61 @@
+/*Text*/
+
+.text-center{
+	text-align: center;
+}
+
+.heading-small{
+	font-size: 1.25rem;
+}
+
+.heading-medium{
+font-size: 1.5rem;
+
+}
+
+.heading-big{
+font-size: 1.75rem;
+
+}
+
+.bg-white{
+	background: #fff;
+}
+
+.container{
+	margin: 0 auto;
+}
+.opacity{
+	opacity: 0.6;
+}
+
+
+.letter-spacing{
+	letter-spacing: 4px;
+}
+
+.padding{
+	padding-top: 4rem;
+}
+
+.padding2{
+	padding: 1.5rem;
+}
+
+/*forms*/
+#contact .form-control{
+	width: 100%;
+	padding: 1rem 0.25rem;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid grey;
+}
+
+#contact .btn{
+	margin: 16px 0px;
+	padding: 1rem 1.5rem;
+	border: none;
+	text-transform: uppercase;
+
+}

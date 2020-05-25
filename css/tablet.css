@@ -1,0 +1,22 @@
+@media(max-width: 768px){
+#about .esas .image {
+	display: none;
+}
+
+#about .esas .umumi{
+	padding-bottom:2rem; 
+}
+
+#menu .menu-write{
+	display: flex;
+	flex-direction: column; 
+}
+
+#menu  .menu-image {
+	opacity: 0.6;
+}
+
+#contact{
+	margin-left: 0px;
+}
+}	
